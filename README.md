@@ -1,2 +1,2 @@
 # SQL
-This repository contains projects  made on SQL
+This repository contains projects  made by me on SQL
