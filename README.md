@@ -104,13 +104,7 @@ Top 5 pizzas significantly outperform bottom 5, suggesting opportunities for men
 
 
 
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🍕 Pizza Sales SQL Project – Summary
 
 This SQL project is designed to analyze pizza sales data from the database Pizza DB. The queries are structured into KPIs, trend analysis, category insights, and top/bottom performers.
