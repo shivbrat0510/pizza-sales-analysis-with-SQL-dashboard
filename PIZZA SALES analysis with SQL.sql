@@ -2,7 +2,7 @@ use [Pizza DB]
 
 
 -----------------------------------------------------------------------------PIZZA SALES SQL QUERIES
-A. KPI’s
+A. KPIâ€™s
 --1. Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
  
@@ -109,5 +109,6 @@ FROM pizza_sales
 WHERE pizza_category = 'Classic'
 GROUP BY pizza_name
 ORDER BY Total_Orders ASC
+
 
 
